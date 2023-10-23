@@ -285,6 +285,13 @@ button[type="submit"]:hover {
     text-transform: uppercase;
     font-size: 1rem;
 }
+
+
+/*Social section*/
+
+/*Concepts of positioning (Static,Relative,Absolute,fixed,sticky etc)*/
+
+
 #social{
     position: fixed;
     top: 25%;
